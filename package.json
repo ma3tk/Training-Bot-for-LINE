@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/ma3tk/Training-Bot-for-LINE#readme",
   "dependencies": {
-    "@line/bot-sdk": "^5.0.0",
+    "body-parser": "^1.18.2",
     "dotenv": "^4.0.0",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "node-line-bot-api": "^0.1.4"
   }
 }
