@@ -1,0 +1,22 @@
+{
+  "name": "training-bot-for-line",
+  "version": "1.0.0",
+  "description": "LINE bot to record own daily training results",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma3tk/Training-Bot-for-LINE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma3tk/Training-Bot-for-LINE/issues"
+  },
+  "homepage": "https://github.com/ma3tk/Training-Bot-for-LINE#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^5.0.0"
+  }
+}
